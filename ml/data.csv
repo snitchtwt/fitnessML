@@ -1,0 +1,5 @@
+name,age,gender,height,body_fat,muscle_mass,lifestyle,hours_of_exercise,weight_loss,muscle_gain
+aryan,30,M,165,20,60,Sedentary,0,5,2
+t10,40,M,180,25,75,Active,3,3,5
+dev,25,M,170,15,65,Moderate,5,8,1
+rudpet,20,M,200,
